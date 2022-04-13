@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexisBettilyon.
+- 👋 Hi, I’m @TylerBettilyon.
 - 👀 I’m interested in Full-Stack Development.
 - 🌱 I’m currently learning JavaScript with Tech Elevator.
 - 💞️ I’m holding off on collaborating for now, until I finish up with my bootcamp, but I'm excited to collaborate soon!
