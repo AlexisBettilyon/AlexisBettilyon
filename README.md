@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TylerBettilyon.
-- 👀 I’m interested in Full-Stack Development.
-- 🌱 I’m currently practicing web development with Tech Elevator and Renters Domain.
+- 👀 I’m a Full-Stack Developer with a preference for Java development.
+- 🌱 I’m currently working as a developer with American Airlines.
 - 💞️ I’m open to collaborations, and am looking for a group project!
 - 📫 How to reach me: You can reach me at Bettilyont@gmail.com!
 
